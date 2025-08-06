@@ -1,5 +1,6 @@
 [README.md](https://github.com/user-attachments/files/21562090/README.md)
 # Calculadora de Força Eletrostática
+![Interface da Calculadora](https://github.com/PauloCP1/CodigoFisica2/blob/main/image.png?raw=true)
 
 Este projeto em Java implementa uma calculadora de força eletrostática entre três partículas dispostas ao longo de um eixo x. Ele permite ao usuário inserir posições e cargas das partículas para calcular a força resultante sobre a terceira partícula.
 
